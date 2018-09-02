@@ -1,0 +1,17 @@
+missing module named resource - imported by posix, E:\Coding\Python\RPG Battle Game\RPG_battle.py
+missing module named posix - imported by os, E:\Coding\Python\RPG Battle Game\RPG_battle.py
+missing module named _posixsubprocess - imported by subprocess, E:\Coding\Python\RPG Battle Game\RPG_battle.py
+missing module named 'org.python' - imported by pickle, E:\Coding\Python\RPG Battle Game\RPG_battle.py, xml.sax
+missing module named readline - imported by cmd, code, pdb, E:\Coding\Python\RPG Battle Game\RPG_battle.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, E:\Coding\Python\RPG Battle Game\RPG_battle.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, E:\Coding\Python\RPG Battle Game\RPG_battle.py
+missing module named _winreg - imported by platform, E:\Coding\Python\RPG Battle Game\RPG_battle.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, E:\Coding\Python\RPG Battle Game\RPG_battle.py
+missing module named 'java.lang' - imported by platform, E:\Coding\Python\RPG Battle Game\RPG_battle.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, E:\Coding\Python\RPG Battle Game\RPG_battle.py
+missing module named termios - imported by tty, E:\Coding\Python\RPG Battle Game\RPG_battle.py, getpass
+missing module named grp - imported by shutil, tarfile, E:\Coding\Python\RPG Battle Game\RPG_battle.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, E:\Coding\Python\RPG Battle Game\RPG_battle.py, netrc, getpass
+missing module named _dummy_threading - imported by dummy_threading, E:\Coding\Python\RPG Battle Game\RPG_battle.py
+missing module named org - imported by copy, E:\Coding\Python\RPG Battle Game\RPG_battle.py
